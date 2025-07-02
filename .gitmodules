@@ -1,0 +1,3 @@
+[submodule "themes/elixir"]
+	path = themes/elixir
+	url = https://github.com/jimrazmus/elixir.git
