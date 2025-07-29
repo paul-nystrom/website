@@ -47,7 +47,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # tryhackme_url = "https://tryhackme.com"
     x_url = "https://x.com/paulcnystrom"
     # xmpp_url = "https://xmpp.org"
-    # youtube_url = "https://youtube.com/maybe-paul"
+    youtube_url = "https://youtube.com/@paulnystrom2024"
     # signal_url = "https://signal.org"
     # bluesky_url = "https://bsky.app"
 
