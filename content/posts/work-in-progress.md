@@ -1,8 +1,18 @@
 ---
-title: "Work in Progress"
-date: 2025-06-25
+title: "Kids and Fever"
+date: 2025-08-05
 draft: false
-description: "Placeholder Content"
-tags: ["Work in Progress"]
+description: "kids, fever, fatigue, fasting"
+tags: ["Kids", "Fever", "Fatigue", "Fasting"]
 ---
-Work in progress.
+I see kids in the ER with fevers virtually every shift. Often, parents have done nothing to try to improve the fever. They seem to have a fear that somehow the fever will kill their child. They don't understand that the fever is helping fight the infection. Additionally, something that is not intuitive is that the body would not try to harm itself. So, most fevers will cap out around 104°F. That's about the max temperature that the body will push for to try to fight the infection because temperatures higher than that can cause tissue damage, specifically denaturing of proteins. But somehow, with all the internet searching that's done, it does not seem like parents find that information. I have learned that around 104°F seems to be the max temperature for most patients from almost 20 years of doing this in the ER. But it doesn't seem that that information is readily available. So, a concerned parent would have no idea that the fever is going to stop. They have a child who appears sick; they check the temperature, and it's climbing. They check it again, and it's still climbing. They check it again, and it's still climbing. They would have no reason to know or understand that it's going to max out around 104°F.
+
+By the time they arrive in the ER, they are almost frantic at times and think that their baby is going to die. I look at the child and, within about 30 seconds, recognize that the child most likely has a viral illness, is not really all that sick, has a fever, yes, is breathing fast because of the fever, yes, and is tachycardic because of the fever. There's roughly a 10 beats per minute elevation per one degree Celsius. But again, parents would not know all these things, and it's often hard to convince them that I know what I'm talking about without doing any testing for their child.
+
+This relates back to patients and parents wanting a definitive answer. Telling the parents that their kid has a viral illness does not seem to satisfy some parents as much as telling them the specific name of a virus, if that viral testing is available, although most often it is not.
+
+A related idea is that I tell patients and parents that the body does three things when you have an infection: fast, fatigue, fever. The body knows that to heal, it intuitively goes into a fasting state. You don't have to eat when you're sick. You need to stay hydrated, which is a topic for another discussion, but you don't have to eat. Parents, especially in some cultures, are absolutely distraught that their child is not hungry, has skipped a meal, or has skipped a couple of meals. Even if that child is clearly not underweight and I've even seen it in children who are clearly obese. Parents still really think that their child has to eat, or something bad is going to happen. There is no understanding that fasting is a perfectly normal activity that humans have been doing for as long as we have been on this planet. Children will catch up when they feel better. They don't have to eat when they're sick.
+
+Fatigue: Your body will push you to sleep more when you're tired. You need more rest when you're sick so the body can repair itself. Sleeping extra is essentially never a problem. Sleep is a natural thing that the body does when it needs it. If you're sleeping more than usual or your child is sleeping more than usual, stay sleeping. I can't think of any reason why extra sleep would be bad for a patient. (There are times when it becomes pathological, like in severe depression, but that's a different topic. Unfortunately, some of that sleep is often very unsatisfying.) But normal sleep, or even extended sleep in the setting of illness, is not a problem and is actually healthy. 
+
+And we already talked about the fever. There are no guarantees, but with rare exceptions, fevers with run-of-the-mill infections do not go higher than 104°.
