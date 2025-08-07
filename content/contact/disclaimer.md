@@ -2,7 +2,6 @@
 title: "Disclaimer"
 date: 2025-08-07
 draft: false
-# tags: ["Disclaimer"]
 ---
 
 # Medical Website Disclaimer
