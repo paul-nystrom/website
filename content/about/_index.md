@@ -3,7 +3,6 @@ title: "About"
 date: 2024-12-01
 draft: false
 ---
-About Page Content
 Dr. Paul Nystrom, originally from Minnesota, is a seasoned Emergency Medicine physician with a robust background in both EM and EMS. He earned his medical degree from the University of Iowa in 2005 and completed his Emergency Medicine Residency at Hennepin County Medical Center in 2012. Following this, he pursued a 2-year EMS Fellowship, which included police academy training at Hennepin Technical College. Dr. Nystrom also served four years on active duty in the U.S. Navy between medical school and residency training, including a Transitional Internship in Portsmouth, VA, and six months of Dive Medical Officer/Undersea Medical Officer training in Groton, CT, and Panama City, FL. Just prior to his residency, he was stationed in San Diego, CA, with Naval Special Warfare Group ONE.
 
 Currently, Dr. Nystrom works night shifts in the Emergency Department, serves as an EMS medical director, and works part-time as a police officer for a suburban agency, primarily as a medical asset on the SWAT team and also a defensive tactics instructor. 
