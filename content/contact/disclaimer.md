@@ -10,4 +10,4 @@ The information provided on this website is for general informational and educat
 
 The content on this website does not establish a doctor-patient relationship. Reliance on any information provided by this website is solely at your own risk. The website and its authors are not responsible for any decisions made or actions taken based on the information provided.
 
-The opinions and ideas expressed here are my own. They do not represent any employers or agencies that I work with. 
+The opinions and ideas expressed here are my own. They do not represent any employers or agencies that I work for and/or with. 
