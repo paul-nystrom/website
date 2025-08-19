@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Paul Nystrom'
 theme = 'elixir'
-pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+pluralizelisttitles = false # removes the automatically appended "s" on sidebar entries
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
