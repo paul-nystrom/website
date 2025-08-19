@@ -11,7 +11,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     pagerSize = 10
 
 [params]
-    brand = "Paul Nystrom"                      # name of your site - appears in the sidebar
+    brand = "Paul Nystrom"                # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Update this description..." # Used as default meta description if not specified in front matter
