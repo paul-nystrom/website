@@ -5,8 +5,10 @@ draft: false
 ---
 
 Resources
-Zoe
-Gary
-Nina
-Robb
-Chris Palmer
+https://www.zoeharcombe.com/
+https://ninateicholz.com/
+https://garytaubes.com/
+https://docparsley.com/
+https://robbwolf.com/
+https://www.chrispalmermd.com/
+
