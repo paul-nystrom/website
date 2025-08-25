@@ -23,11 +23,20 @@ Fiber is a crock of s**t:
 {{< youtube 4KrmpK_Lckg >}}
 
 
+
 GLP-1s are toxic:
 
-
 https://www.zoeharcombe.com/2024/09/zoe-chats-with-dr-ben-bikman-about-the-use-and-effects-of-glp-1-agonists/
+
+
 
 Reverse type 2 diabetes
 
 {{< youtube da1vvigy5tQ >}}
+
+
+
+Sleep Matters
+
+{{< youtube 7s9C_8-OoxI >}}
+

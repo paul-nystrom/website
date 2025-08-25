@@ -1,5 +1,5 @@
 ---
-title: "Medical Website Disclaimer"
+title: "Disclaimer"
 date: 2025-08-07
 draft: false
 ---
@@ -11,7 +11,7 @@ The opinions and ideas expressed here are my own. They do not represent any empl
 
 Lastly, you don't actually need a doctor or other healthcare professional to be healthy. You don't need medications. Big Medicine has no fixes for chronic disease. Most of what you have been told about health for decades has been a lie perpetuated by Big Pharma.
 
-You are 100% responsible for your own health and if you are a parent, you are responsible for the health of your children. Educated youself. Instill good habits in your children. 
+You are 100% responsible for your own health and if you are a parent, you are responsible for the health of your children. Educate youself. Instill good habits in your children. 
 
 Health and wellness comes down to eating well, getting good sleep, being smart about exercise, having a tribe of people around you, contributing positively to the world, having purpose, and managing stress. None of that requires anything under the purview of Big Medicine. None of it costs anything. 
 

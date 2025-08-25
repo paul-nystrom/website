@@ -1,5 +1,5 @@
 ---
-title: "Expecations"
+title: "Expectations"
 date: 2025-08-23
 draft: false
 description: "expectations"
