@@ -4,8 +4,6 @@ date: 2025-08-19
 draft: false
 ---
 
-Resources
-
 https://www.zoeharcombe.com/
 
 https://ninateicholz.com/
@@ -18,7 +16,7 @@ https://robbwolf.com/
 
 https://www.chrispalmermd.com/
 
-Fiber is a crock of s**t: 
+Fiber is a crock of s**t:
 
 {{< youtube 4KrmpK_Lckg >}}
 
