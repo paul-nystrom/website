@@ -20,3 +20,5 @@ No one is coming to save you, especially not Big Medicine, Big Pharma, Big Insur
 You can save and heal yourself with the right information and action. Hopefully this website helps.
 
 That being said, this website is not perfect as it's author is certainly not. But perhaps something here helps you and sparks your interest and opens your eyes to what an ER doctor has seen and experienced. 
+
+(I've been an MD for 20 years and worked in more than a dozen ERs. When I write about patients, I may say "I saw this patient last night" but that was when I wrote down my thoughts, not literally last night. There are no patient-specific identifiers besides age and sex.)
