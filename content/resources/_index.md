@@ -2,6 +2,7 @@
 title: "Resources"
 date: 2025-08-19
 draft: false
+layout: single
 ---
 
 https://www.zoeharcombe.com/
