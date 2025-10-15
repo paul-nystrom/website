@@ -10,5 +10,4 @@ Currently, Dr. Nystrom works night shifts in the Emergency Department, serves as
 
 With 20 years as an MD, 13 years experience at a Level 1 trauma center, and 4 years exclusively on night shifts, he has developed a keen interest in wellness for public safety personnel, particularly law enforcement. He understands the demands of shift work and the difficulties of maintaining healthy habits. Having observed that Big Medicine often focuses on downstream consequences and chronic conditions rather than prevention, Dr. Nystrom has dedicated the past 15 years to promoting upstream interventions. He emphasizes Better Nutrition, Prioritizing Sleep, Smarter Exercise, and Being Community, sharing these principles through presentations at local police departments, regional trainings, and statewide conferences, earning recognition across the metro area and outstate Minnesota.
 
-He is available for personal consultations, department training, and larger speaking engagements. 
-
+He is available for personal consultations, department training, and larger speaking engagements.
