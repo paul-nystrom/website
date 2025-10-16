@@ -6,7 +6,7 @@ description: "exaggerated symptoms"
 tags: ["reality", "middle", "work note", "exaggeration"]
 ---
 
-If you bring your teenager or young adult child to the ER and that person helps “sell” your symptoms to me, I feel sorry for both of you. 
+If you bring your teenager or young adult child to the ER and that person helps “sell” your symptoms to me, I feel sorry for both of you.
 
 Today, I saw a 42-year-old with chest pain and shortness of breath. Her daughter described how Mom “couldn’t breathe” when she woke up, and Mom reported her breathing got worse all day. You probably picture someone struggling to breathe based on that description—i.e., could not breathe in the morning, and now at 3 p.m., it’s worse.
 

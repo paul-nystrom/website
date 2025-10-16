@@ -16,4 +16,4 @@ This most likely means having a job. Whatever you do should be a net positive to
 
 That’s not a very high bar, but it does take work and effort. It’s not always going to be easy; in fact, it is guaranteed to be hard at times. But if you are not doing the bare minimum, you should feel some shame, and when you feel that, you should fix the problem, starting with whatever is within the circle around your own two feet.
 
-The appropriate amount of shame from Grandma changed my behavior. I stopped cheating at cards. 
+The appropriate amount of shame from Grandma changed my behavior. I stopped cheating at cards.
