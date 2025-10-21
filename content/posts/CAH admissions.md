@@ -12,11 +12,11 @@ My hospital's inpatient unit can accommodate around 8-10 patients, and I have no
 
 If I have a patient who needs to be admitted, the admit game starts. If the admit game is successful, I don’t have to play the transfer game. Let me tell you about the admit and transfer games.
 
-The goal: the patient needs to be admitted to a hospital and provider that can adequately care for their medical condition(s). 
+The goal: the patient needs to be admitted to a hospital and provider that can adequately care for their medical condition(s).
 
-The players: the patient, myself, a hospitalist, EMS, the transfer center, a gatekeeper, and any needed specialists. 
+The players: the patient, myself, a hospitalist, EMS, the transfer center, a gatekeeper, and any needed specialists.
 
-The length of the game: from the time of the decision to admit the patient until the patient is safely in their hospital bed. 
+The length of the game: from the time of the decision to admit the patient until the patient is safely in their hospital bed.
 
 The rules: infinitely changing. (This could also be called the infinite game, which is not dissimilar to my first marriage.)
 

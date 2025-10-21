@@ -2,6 +2,7 @@
 title: "Disclaimer"
 date: 2025-08-07
 draft: false
+layout: single
 ---
 The information provided on this website is for general informational and educational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition.
 
@@ -11,14 +12,14 @@ The opinions and ideas expressed here are my own. They do not represent any empl
 
 Lastly, you don't actually need a doctor or other healthcare professional to be healthy. You don't need medications. Big Medicine has no fixes for chronic disease. Most of what you have been told about health for decades has been a lie perpetuated by Big Pharma.
 
-You are 100% responsible for your own health and if you are a parent, you are responsible for the health of your children. Educate youself. Instill good habits in your children. 
+You are 100% responsible for your own health and if you are a parent, you are responsible for the health of your children. Educate youself. Instill good habits in your children.
 
-Health and wellness comes down to eating well, getting good sleep, being smart about exercise, having a tribe of people around you, contributing positively to the world, having purpose, and managing stress. None of that requires anything under the purview of Big Medicine. None of it costs anything. 
+Health and wellness comes down to eating well, getting good sleep, being smart about exercise, having a tribe of people around you, contributing positively to the world, having purpose, and managing stress. None of that requires anything under the purview of Big Medicine. None of it costs anything.
 
-No one is coming to save you, especially not Big Medicine, Big Pharma, Big Insurance or Big Food. 
+No one is coming to save you, especially not Big Medicine, Big Pharma, Big Insurance or Big Food.
 
 You can save and heal yourself with the right information and action. Hopefully this website helps.
 
-That being said, this website is not perfect as it's author is certainly not. But perhaps something here helps you and sparks your interest and opens your eyes to what an ER doctor has seen and experienced. 
+That being said, this website is not perfect as it's author is certainly not. But perhaps something here helps you and sparks your interest and opens your eyes to what an ER doctor has seen and experienced.
 
 (I've been an MD for 20 years and worked in more than a dozen ERs. When I write about patients, I may say "I saw this patient last night" but that was when I wrote down my thoughts, not literally last night. There are no patient-specific identifiers besides age and sex.)
