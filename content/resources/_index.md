@@ -23,7 +23,9 @@ Fiber is a crock of s**t:
 
 {{< youtube 4KrmpK_Lckg >}}
 
+Consider this instead:
 
+{{< youtube 4eAyJNdTSMo >}}
 
 GLP-1s are toxic:
 
