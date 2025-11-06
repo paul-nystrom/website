@@ -25,4 +25,4 @@ There is less cognitive dissonance with a fixed mindset and poor health. You can
 
 And if this is you, your life will keep deteriorating and your health will be miserable.
 
-People change when the pain is great enough—and not before.
+People change when the pain is great enough. And not before.
