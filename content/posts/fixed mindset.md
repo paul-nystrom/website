@@ -1,6 +1,6 @@
 ---
 title: "Fixed Mindset"
-date: 2025-11-04
+date: 2025-11-05
 draft: false
 description: "fixed mindset"
 tags: ["fixed mindset", "growth mindset", "pain" "abdominal pain", "constipation", "kidney stones", "change"]
