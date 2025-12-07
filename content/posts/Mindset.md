@@ -3,7 +3,7 @@ title: "Fixed Mindset"
 date: 2025-11-05
 draft: false
 description: "fixed mindset"
-tags: ["fixed mindset", "growth mindset", "pain" "abdominal pain", "constipation", "kidney stones", "change"]
+tags: ["fixed mindset", "growth mindset", "pain", "abdominal pain", "constipation", "kidney stones", "change"]
 ---
 
 I spend more and more time with patients talking about their medical problems that are not emergencies. The vast majority of the time, any actual emergency condition is ruled out very quickly. Occasionally, a critical diagnosis is found after quite a long time in the ER, but that's the exception rather than the rule. So once the actual emergencies are no longer part of the discussion, we can focus on other things.
