@@ -1,9 +1,9 @@
 ---
-title: "The Admission Game"
+title: The Admission Game
 date: 2025-08-26
 draft: false
-description: "CAH admissions"
-tags: ["admissions", "transfer", "game", "admit"]
+description: CAH admissions
+tags: [admissions, transfer, game, admit]
 ---
 
 At times in my career, my job has been less about actually practicing medicine, especially at a small, rural hospital. Instead of seeing patients, I am the quarterback of the transfer game. This is not unique to my hospital or system. Across the country, providers are doing this same thing literally every shift. Even at medium-sized hospitals that still don’t have all the specialties, there is still a lot of transferring going on. This is how the game is played.

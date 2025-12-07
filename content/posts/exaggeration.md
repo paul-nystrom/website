@@ -1,9 +1,9 @@
 ---
-title: "Exaggeration"
+title: Exaggeration
 date: 2025-08-23
 draft: false
-description: "exaggerated symptoms"
-tags: ["reality", "middle", "work note", "exaggeration"]
+description: exaggerated symptoms
+tags: [reality, middle, work note, exaggeration]
 ---
 
 If you bring your teenager or young adult child to the ER and that person helps “sell” your symptoms to me, I feel sorry for both of you.

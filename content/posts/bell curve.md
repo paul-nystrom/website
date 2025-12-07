@@ -1,9 +1,9 @@
 ---
-title: "Bell Curve"
+title: Bell Curve
 date: 2025-09-06
 draft: false
-description: "bell curve"
-tags: ["bell curve", "cough", "expectations"]
+description: bell curve
+tags: [bell curve, cough, expectations]
 ---
 
 My job is to reassure people that their symptoms are not too far outside the norm, or the "bell curve." Most patients don’t understand what the bell curve means, but when their illness or injury doesn’t progress as expected, I reassure them that their condition is within one to two standard deviations from the mean.

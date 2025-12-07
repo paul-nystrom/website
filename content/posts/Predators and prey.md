@@ -1,9 +1,9 @@
 ---
-title: "Predators and Prey"
+title: Predators and Prey
 date: 2025-08-08
 draft: false
-description: "anxiety related to medical conditions"
-tags: ["predators", "domestic assault", "prey", "methamphetamine", "jail"]
+description: anxiety related to medical conditions
+tags: [predators, domestic assault, prey, methamphetamine, jail]
 ---
 
 On the night shift in the ER, there are two types of patients: predators and prey. (There are many more types but this combo is a common theme.)
@@ -15,4 +15,3 @@ Just two rooms down from her, a middle aged male presented by EMS after just get
 The reason we could discharge my domestic assault victim safely was because her asshole husband was in jail already. She is not inherently safe from all predators but she is at least safe from that one.
 
 {{< youtube YsMB0i5YTOc >}}
-

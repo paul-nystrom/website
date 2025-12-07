@@ -1,9 +1,9 @@
 ---
-title: "How Much Time is Enough?"
+title: How Much Time is Enough?
 date: 2025-08-31
 draft: false
-description: "mental health resources"
-tags: ["meth", "mental health", "resources", "anxiety", "patience"]
+description: mental health resources
+tags: [meth, mental health, resources, anxiety, patience]
 ---
 
 A 30-something-year-old male presented to the ER via EMS. He has a history of methamphetamine use. On this particular day, he had not made any threats of violence, was not suicidal, and was not homicidal. He had not committed any crimes. However, his pre-hospital behavior resulted in him being brought to the ER.
@@ -30,4 +30,3 @@ Keep in mind, I have other patients to see. The nurse has other tasks, and secur
 At some point, a decision must be made, and that decision falls to me. In this case, he eventually agreed to take the oral medication so he could rest. However, if he had chosen otherwise, I might have been in a position where I would have had to forcibly restrain him and administer medication against his will. Nobody likes that plan. I don’t like that option. But given the constraints of the system I’m in, I can’t afford to let people get hurt, and I can’t allow patients who are on edge and appear ready to explode at any moment to wander around my ER.
 
 My job is to protect the patient and the people caring for the patient.
-

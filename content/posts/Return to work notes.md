@@ -1,9 +1,9 @@
 ---
-title: "Return to Work Notes"
+title: Return to Work Notes
 date: 2025-08-23
 draft: false
-description: "return to work notes"
-tags: ["employer", "employee", "middle"]
+description: return to work notes
+tags: [employer, employee, middle]
 ---
 
 Patients come to the ER for work notes, and I wish they would just be honest upfront about it rather than concoct complaints and then slip in a comment about a work note. It’s frustrating to do all the song and dance about some potential problem they have that they often have difficulty describing. Their answers to my line of questioning about symptoms sometimes don’t make sense, and I’m left scratching my head, sometimes worried there is really something sinister going on. In reality, they are only halfway paying attention because the goal is the work note, nothing more.
@@ -35,4 +35,3 @@ There are essentially infinite possibilities based on your injury, your motivati
 If you can, go to work. Don’t come to me to get out of work. If you want to skip work, don’t bring me into your deceit.
 
 For employers who have employees that want to come back to work, let them. If you want to know how long something is contagious after it’s diagnosed or treated, Google it. Good luck! Hard science is lacking. Your best bet is to take some reasonable measures to avoid spreading an infection. But if you have employees who want to work, by all means, let them!
-

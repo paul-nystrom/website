@@ -1,9 +1,9 @@
 ---
-title: "Don't Consult a Physician Before Exercise"
+title: Don't Consult a Physician Before Exercise
 date: 2025-10-26
 draft: false
-description: "physician before exercise"
-tags: ["exercise", "risk", "advice", "consult", "exercise police", "useless advice", "Robert Lustig", "metabolic health", "obesity"]
+description: physician before exercise
+tags: [exercise, risk, advice, consult, exercise police, useless advice, Robert Lustig, metabolic health, obesity]
 ---
 
 The advice to ask your doctor before starting an exercise program has no basis in science, as far as I know. It’s primarily a CYA (cover your ass) disclaimer. Virtually everyone in the fitness industry has adopted it, so it’s stated almost everywhere:

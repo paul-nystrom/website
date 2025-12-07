@@ -1,9 +1,9 @@
 ---
-title: "Middleman"
+title: Middleman
 date: 2025-09-06
 draft: false
-description: "middleman"
-tags: ["middleman", "ex", "high conflict", "divorce", "parenting"]
+description: middleman
+tags: [middleman, ex, high conflict, divorce, parenting]
 ---
 
 Besides employers placing ER doctors in the middle of decisions about a patient’s return to work, we also get caught between divorced parents and between parents and their children. This includes parents with minor children as well as parents of adult children. I can tell you that no ER doctor wants to be in the middle of these situations.
@@ -15,4 +15,3 @@ The parent’s reasoning (although left unspoken) is that they’ll face critici
 ER doctors also don’t want to be the middleman between parents and their minor children. I’ve seen plenty of kids who reportedly complained to their parent about some symptom, often in the context of not wanting to go to school. When asked specifically about their symptoms in the ER, the teenage child often can’t describe anything in definite terms. Their answers are vague about whatever is supposedly bothering them. My conclusion is usually that nothing is actually wrong. Yet, they may complain of symptoms like chest pain or shortness of breath, even though they look perfectly well, their vital signs are normal, and they’re so bored with talking to me that they can’t even take their eyes off their phone.
 
 Then the truth usually comes out. The parent will say, “You told me this was bothering you and you couldn’t go to school, so tell the doctor what’s going on.” The reality is that the child doesn’t want to go to school, but the parent lacks the resolve to make them. So, I become the middleman because the parent isn’t doing their job.
-

@@ -1,9 +1,9 @@
 ---
-title: "Expectations"
+title: Expectations
 date: 2025-08-23
 draft: false
-description: "expectations"
-tags: ["expectations", "disappointment", "specialties"]
+description: expectations
+tags: [expectations, disappointment, specialties]
 ---
 
 I often reach the end of an ER visit without a definitive diagnosis, which is not uncommon for complaints like dizziness, chest pain, or abdominal pain. I explain to the patient all the emergency and serious conditions we’ve ruled out and clarify that I don’t have an exact answer. Patients are often incredulous that I don’t have all the answers.

@@ -1,15 +1,15 @@
 ---
-title: "Blood In Your Urine"
+title: Blood In Your Urine
 date: 2025-12-07
 draft: false
-description: "blood in your urine"
-tags: ["urology", "hematuria", "2am", "sex", "penis"]
+description: blood in your urine
+tags: [urology, hematuria, 2am, sex, penis]
 ---
 
 For guys, blood in your urine can be related to a number of things. The younger and healthier you are, the more likely it is not a serious problem. The older you are, the more likely it is a serious issue.
 When it comes to going to the ER for new blood in the urine, context matters.
 
-A 45-year-old male came in last night after noticing blood in his urine (and mixed in with his ejaculate) after sex. He and his wife promptly came to the ER because this was obviously very concerning to them. He had no other symptoms. He had previously passed a kidney stone (which, of course, came with the usual amount of pain), but tonight, aside from this concerning finding, he had no symptoms to speak of and hadn’t had any recently. This had never happened before. He was otherwise healthy. 
+A 45-year-old male came in last night after noticing blood in his urine (and mixed in with his ejaculate) after sex. He and his wife promptly came to the ER because this was obviously very concerning to them. He had no other symptoms. He had previously passed a kidney stone (which, of course, came with the usual amount of pain), but tonight, aside from this concerning finding, he had no symptoms to speak of and hadn’t had any recently. This had never happened before. He was otherwise healthy.
 
 This does not need an ER visit. A one-off event like this is most often not serious. Since he was already in the ER, I checked his urine for signs of infection, but without any prior symptoms, fever, or history of infections, the likelihood of finding an infection was already very low before we even got the sample. And of course, he did not have an infection.
 

@@ -1,0 +1,33 @@
+repos:
+- repo: https://github.com/gitleaks/gitleaks
+  rev: v8.30.0
+  hooks:
+    - id: gitleaks
+      name: "🔒 security · Detect hardcoded secrets"
+
+- repo: https://github.com/hukkin/mdformat
+  rev: 1.0.0
+  hooks:
+    - id: mdformat
+      name: "📝 markdown · Format markdown"
+      additional_dependencies:
+      - mdformat-front-matters
+
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v6.0.0
+  hooks:
+    - id: check-merge-conflict
+      name: "🌳 git · Detect conflict markers"
+    - id: forbid-new-submodules
+      name: "🌳 git · Prevent submodule creation"
+    - id: check-added-large-files
+      name: "🌳 git · Block large file commits"
+      args: ['--maxkb=5000']
+    - id: end-of-file-fixer
+      name: "📝 markdown · Fix end of file"
+    - id: mixed-line-ending
+      name: "📝 markdown · Fix end of lines"
+      args: ['--fix=lf']
+    - id: trailing-whitespace
+      name: "📝 markdown · Fix trailing whitespace"
+      args: ['--markdown-linebreak-ext=md']
