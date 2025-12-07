@@ -1,9 +1,9 @@
 ---
-title: "Jailbreak"
+title: Jailbreak
 date: 2025-12-07
 draft: false
-description: "jailbreak"
-tags: ["salt", "hypertension", "heart attack", cholesterol", "stroke", "jailbreak", "cognitive dissonance", "out of the barn"]
+description: jailbreak
+tags: [salt, hypertension, heart attack, cholesterol", stroke, jailbreak, cognitive dissonance, out of the barn]
 ---
 
 I have a friend whose dad has been in the hospital for 10 days because of high blood pressure. Nothing the doctors have tried seems to fix it. He’s on multiple medications with very little progress. The prolonged hospital stay has drained his motivation; he’s clearly more depressed than he was. They’ve accomplished very little, and there’s been almost no communication with the family about what the end goal even is. His blood pressure is still running high, so not much has really been accomplished.

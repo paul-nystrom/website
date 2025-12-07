@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: Resources
 date: 2025-08-19
 draft: false
 layout: single
@@ -19,7 +19,7 @@ https://robbwolf.com/
 
 https://www.chrispalmermd.com/
 
-Fiber is a crock of s**t:
+Fiber is a crock of s\*\*t:
 
 {{< youtube 4KrmpK_Lckg >}}
 
@@ -38,4 +38,3 @@ Reverse type 2 diabetes
 Sleep Matters
 
 {{< youtube 7s9C_8-OoxI >}}
-

@@ -1,9 +1,9 @@
 ---
-title: "Burning Bridges"
+title: Burning Bridges
 date: 2025-10-26
 draft: false
-description: "burning bridges"
-tags: ["burning bridges", "community", "aging", "James Clear", "Peter Attia", "Jordan Peterson"]
+description: burning bridges
+tags: [burning bridges, community, aging, James Clear, Peter Attia, Jordan Peterson]
 ---
 
 When you get old, you will need help. The vast majority of us will die a slow death. That is to say, we will have medical problems that slowly get worse until at some point one of them manifests itself in an acute way, such as a heart attack or stroke. Hopefully that end is not actually slow, but not living well for some months to years is the norm. By not living well, I mean not living independently, not doing the things you want to do, not having the capacity to attend to your own needs. Peter Attia has written about the Centenarian Olympics, with the idea being that most of us want to do activities and be able to function well when we are 100 years old. But as he points out, most of us can’t do those things in our 60s or 70s, and we certainly are not going to suddenly regain capability we lost decades ago.

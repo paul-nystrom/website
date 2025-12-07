@@ -1,9 +1,9 @@
 ---
-title: "The ER and Porn"
+title: The ER and Porn
 date: 2025-10-07
 draft: false
-description: "ER is like porn"
-tags: ["overpromises", "underdelivers", "porn", "expectations"]
+description: ER is like porn
+tags: [overpromises, underdelivers, porn, expectations]
 ---
 
 Lately, I think the ER is, in many ways, the same as porn. Porn overpromises and underdelivers. In a twisted sort of way, the ER does the same thing. That’s not because I think we do bad work in the ER—in fact, I think we do amazing work as we try to solve all the ills of society and all the problems in the medical system that arise when clinics are closed (the vast majority of the time—e.g., evenings, nights, weekends, and holidays). Do the math: If most clinics are open from 8:00 a.m. to 5:00 p.m., Monday through Friday, how many total hours per week are they open compared to how many hours per week they are closed? The majority of the time, we are the only game in town.

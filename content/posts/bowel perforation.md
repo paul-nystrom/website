@@ -1,9 +1,9 @@
 ---
-title: "Bowel Perforation"
+title: Bowel Perforation
 date: 2025-08-15
 draft: false
-description: "bowel perforation"
-tags: ["bowel perforation", "code status", "full code", "transfer",]
+description: bowel perforation
+tags: [bowel perforation, code status, full code, transfer]
 ---
 
 She was 85 years old with a bad heart and many chronic medical problems. Tonight, she had severe abdominal pain, and the CT scan showed a perforated bowel. Her future would include antibiotics and surgery. I was at a smaller hospital and spoke with my local surgeon. He was concerned that the patient was too sick to go to the operating room locally and she would need to be transferred to a bigger hospital. She would likely need ICU care afterward. Having abdominal surgery for a perforated bowel is a big deal, and with her baseline cardiopulmonary medical problems, it would likely be a rough road to recovery.

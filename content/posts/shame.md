@@ -1,9 +1,9 @@
 ---
-title: "Shame"
+title: Shame
 date: 2025-09-08
 draft: false
-description: "shame"
-tags: ["shame", "bare minimum", "responsibility"]
+description: shame
+tags: [shame, bare minimum, responsibility]
 ---
 
 When I was little, I tried to cheat my grandma at a card game. I don’t remember the specific game; I only recall that it featured Donald Duck and Friends characters on the cards. While her back was turned as she worked in the kitchen, I stacked the deck so that when we drew cards, I got all the good ones. She quickly figured out that I had cheated. She said, “Shame on you,” and refused to play cards with me anymore. I offered to make it right by stacking the cards in her favor, not understanding that that didn’t solve the problem.

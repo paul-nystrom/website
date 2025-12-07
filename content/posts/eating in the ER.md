@@ -1,9 +1,9 @@
 ---
-title: "Eating in the ER"
+title: Eating in the ER
 date: 2025-08-12
 draft: false
-description: "eating in the ER"
-tags: ["sedation", "eating", "procedure", "triage"]
+description: eating in the ER
+tags: [sedation, eating, procedure, triage]
 ---
 
 When you arrive at the ER, it’s standard practice to prohibit eating or drinking until a doctor has evaluated you. This rule likely exists because sedation for a procedure or surgery is considered higher risk if you have a full stomach. However, this policy is not always practical, as the vast majority of ER patients do not require acute surgery, procedures, or sedation. It’s reasonable to ask the nurse checking you in if you can have something to eat or drink. Their answer will likely be no, but it’s also reasonable to politely ask if they can consult the doctor rather than provide a blanket response. Depending on whom you’re speaking with, this request may meet resistance. There may be reluctance to allow eating or drinking because, at the start of your visit, the only information available is your vitals and a triage note from the nurse.

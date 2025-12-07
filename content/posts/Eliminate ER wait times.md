@@ -1,9 +1,9 @@
 ---
-title: "Eliminate ER Wait Times"
+title: Eliminate ER Wait Times
 date: 2025-12-07
 draft: false
-description: "eliminate ER wait times"
-tags: ["wait times", "MRI", "fever", "fasting", "fatigue", "orthopedics", "abdominal pain"]
+description: eliminate ER wait times
+tags: [wait times, MRI, fever, fasting, fatigue, orthopedics, abdominal pain]
 ---
 
 Eliminate ER Wait Times
@@ -29,8 +29,8 @@ Let’s consider that maybe you do have a severe knee injury, for example. Let�
 If your kid has abdominal pain, try these three tried-and-true remedies first:
 
 1. Eat something.
-2. Try to poop.
-3. Lie down for a couple of hours and see if it doesn’t feel better.
+1. Try to poop.
+1. Lie down for a couple of hours and see if it doesn’t feel better.
 
 If you have any sort of viral illness, nobody in the ER cares—and we can’t do much anyway. It doesn’t matter if it’s influenza, COVID, another coronavirus, adenovirus, rhinovirus, or whatever other virus that is causing your laryngitis, bronchitis, sore throat, nasal congestion, runny nose, headache, body aches, cough, or fever. The treatment is chicken soup. Big Medicine has nothing better.
 

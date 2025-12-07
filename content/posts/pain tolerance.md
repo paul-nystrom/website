@@ -1,9 +1,9 @@
 ---
-title: "Pain Tolerance"
+title: Pain Tolerance
 date: 2025-08-30
 draft: false
-description: "pain tolerance"
-tags: ["pain tolerance", "marijuana", "appendicitis"]
+description: pain tolerance
+tags: [pain tolerance, marijuana, appendicitis]
 ---
 
 A 21-year-old male presented to the ER with a couple of days of progressively worsening abdominal pain, now located over his right lower quadrant. As he was telling me his story, his opening statement was, "I use marijuana every day, so I have a high pain tolerance."

@@ -1,9 +1,9 @@
 ---
-title: "Lacerations"
+title: Lacerations
 date: 2025-08-15
 draft: false
-description: "lacerations"
-tags: ["laceration", "scar"]
+description: lacerations
+tags: [laceration, scar]
 ---
 
 Once you have a break in your skin, you will have a scar. There's not really any way around that. People come to the ER expecting that we will be able to keep them from having a scar, but that's not the case. Even the most controlled scars, like those from a surgical procedure, will leave you with a scar. Why would getting hit with a baseball bat in the head, causing a big, complex, star-shaped laceration with smashed edges and macerated tissue not result in a scar? It just doesn’t make sense.

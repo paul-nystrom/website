@@ -1,9 +1,9 @@
 ---
-title: "Feeling Dismissed"
+title: Feeling Dismissed
 date: 2025-08-23
 draft: false
-description: "feeling dismissed"
-tags: ["concern", "family", "dismissed", "unrelated"]
+description: feeling dismissed
+tags: [concern, family, dismissed, unrelated]
 ---
 
 I had a patient who presented to the ER with an episode of chest pain 24 hours prior. She also experienced an episode of severe nausea and sweating, which is consistent with a vasovagal response. Sweating and feeling warm in this context do not indicate a fever.

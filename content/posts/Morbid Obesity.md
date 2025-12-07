@@ -1,9 +1,9 @@
 ---
-title: "Morbid Obesity"
+title: Morbid Obesity
 date: 2025-08-24
 draft: false
-description: "morbid obesity"
-tags: ["obesity", "futile", "come to Jesus", "CPR"]
+description: morbid obesity
+tags: [obesity, futile, come to Jesus, CPR]
 ---
 
 I took care of a 650 pound woman once. She had renal failure and needed dialysis when I met her. We admitted her to the hospital but probably for the last time. Due to her size, she was immobile. She basically had to have six firefighters lift her every time she went anywhere. When it comes to dialysis, that’s usually a three days per week event. Patients that have transportation issues can usually be set up with services to accommodate their schedule. However, that’s usually one driver of a handicap accessible van. That’s not six firefighters lifting her onto an ambulance gurney that is almost maxed out for weight and then picking her up to take her home.
