@@ -1,9 +1,9 @@
 ---
-title: "Highly Sensitive People"
+title: Highly Sensitive People
 date: 2025-12-07
 draft: false
-description: "highly sensitive people"
-tags: ["HSP", "stroke", "short of breath", "highly sensitive people"]
+description: highly sensitive people
+tags: [HSP, stroke, short of breath, highly sensitive people]
 ---
 
 People with neurologic symptoms that require an excessive number of terms to describe them are not having a stroke. Patients who are actually having a stroke most often have one extremity that simply doesn’t work. It is functionally weak, paralyzed, or flaccid—it simply does not move. Speech is slurred, and the face often droops, most noticeably at the corner of the mouth.
