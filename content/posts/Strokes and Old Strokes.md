@@ -1,5 +1,5 @@
 ---
-title: "Strokes and Old Strokes”
+title: Strokes and Old Strokes
 date: 2026-01-10
 draft: false
 description: strokes and old strokes
