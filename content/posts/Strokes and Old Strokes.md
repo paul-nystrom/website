@@ -3,7 +3,7 @@ title: "Strokes and Old Strokes”
 date: 2026-01-10
 draft: false
 description: strokes and old strokes
-tags: [CVA, stroke, TPA,]
+tags: [CVA, stroke, TPA]
 ---
 
 won't find an exact answer in the ER—and you may leave feeling disappointed.

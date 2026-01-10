@@ -3,7 +3,7 @@ title: "Lower GI Bleed”
 date: 2026-01-10
 draft: false
 description: lower GI bleed
-tags: [GI bleed, inflammatory bowel disease, IBD, colon cancer, polyp, GI,]
+tags: [GI bleed, inflammatory bowel disease, IBD, colon cancer, polyp, GI]
 ---
 
 With rare exceptions, there are usually no clear answers in the ER for what causes lower GI bleeding. We have tests to check hemoglobin, which measures the amount of red blood cells you have. (When you donate blood, this is usually what you're donating. Donating plasma or platelets is less common.) We can also check clotting factors such as platelets, as well as a test called INR, which assesses how well your blood should clot. We generally perform CT scans of the abdomen as well, but we rarely find a definitive answer.
