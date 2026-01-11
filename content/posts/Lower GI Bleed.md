@@ -1,5 +1,5 @@
 ---
-title: "Lower GI Bleed”
+title: Lower GI Bleed
 date: 2026-01-10
 draft: false
 description: lower GI bleed
