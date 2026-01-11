@@ -6,10 +6,8 @@ description: strokes and old strokes
 tags: [CVA, stroke, TPA]
 ---
 
-won't find an exact answer in the ER—and you may leave feeling disappointed.
-
-Strokes and Old Strokes
 Most people have some vague idea of what a stroke is. There has been a significant education campaign by the American Heart Association so that people can recognize a stroke quickly, call 911, and get to the ER for appropriate care. Common symptoms include inability to speak, slurred speech, facial droop, and weakness on one side of the body.
+
 Strokes generally come in two varieties. The most common type is referred to as an ischemic stroke, which is caused by clotting of a blood vessel in the brain. This leads to damage downstream from the blockage because that area is deprived of blood flow—and specifically oxygen. The other type of stroke, which is much rarer, results from the rupture of a blood vessel in the brain. These are referred to as
 hemorrhagic strokes.
 
