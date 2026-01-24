@@ -32,4 +32,4 @@ The fresh fruit and vegetables high in pesticides could be causing acute issues 
 
 Changing your diet and eliminating all foods that could cause problems will quickly show you if you have health issues or not."
 
-https://x.com/wilsonhlthcoach
+https://x.com/wilsonhlthcoach/

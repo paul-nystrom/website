@@ -5,7 +5,7 @@ draft: false
 layout: single
 ---
 
-https://www.dietdoctor.com/
+https://www.americandiabetessociety.org/
 
 https://www.zoeharcombe.com/
 
