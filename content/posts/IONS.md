@@ -3,7 +3,7 @@ title: IONS
 date: 2026-02-15
 draft: false
 description: IONS
-tags: [natural selection, dark humor, Darwin, Grim Repaer, death, bias]
+tags: [natural selection, dark humor, Darwin, Grim Reaper, death, bias]
 ---
 
 IONS should be the sign over the door of the ER. IONS stands for “Interrupters Of Natural Selection,” which is what we do. The same patients—both medical and trauma—100 years ago would not have survived without us. Those who work in emergency settings recognize this as part of the dark humor that we share. Those who don’t likely see it as somewhat insensitive and disrespectful.
