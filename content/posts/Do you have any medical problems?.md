@@ -28,7 +28,7 @@ Medications for depression mess with the neurotransmitters in your body (your en
 
 Lifestyle modifications can meaningfully treat underlying medical problems.
 
-Nutrition: Eating less sugar, flour, and seed oils can actually reverse underlying metabolic dysfunction, including T2DM. Check out \<Virtahealth.com> for more details.
+Nutrition: Eating less sugar, flour, and seed oils can actually reverse underlying metabolic dysfunction, including T2DM. Check out https://www.virtahealth.com/ for more details.
 
 Exercise: Including resistance training (i.e., lifting weights) can significantly improve your metabolic health and longevity. (Claiming you get exercise because “I’m on my feet a lot for work” doesn’t count. That just means you’re a human doing what humans have always done.)
 
