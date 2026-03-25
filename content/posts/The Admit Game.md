@@ -3,7 +3,7 @@ title: The Admit Game
 date: 2026-03-25
 draft: false
 description: admit game
-tags: [transfer, nurse shortage, game, admit, administration, specialist, hospitalist]
+tags: [transfer, nurse shortage, game, admit, infinite game, administration, specialist, hospitalist]
 ---
 
 At times in my career, my job has become less about actually practicing medicine—especially at a small rural hospital. Instead of seeing patients, I often feel like the quarterback of the transfer game. This is not unique to my hospital or health system. Across the country, providers are doing the same thing on literally every shift. Even at medium-sized hospitals that lack certain specialties, a great deal of patient transferring still occurs. This is simply how the game is played.
