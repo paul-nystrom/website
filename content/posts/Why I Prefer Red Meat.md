@@ -6,7 +6,7 @@ description: why I prefer red meat
 tags: [red meat, ruminant, linoleic acid, seed oils]
 ---
 
-Why I ask patients about their so called "healthy" eating, they often tell me they cut out red meat. As this has been the recommendation for decades. Turns out, it's completely wrong.
+When I ask patients about their so called "healthy" eating, they often tell me they cut out red meat, as this has been the recommendation for decades. Turns out, it's completely wrong.
 
 Ruminants — such as beef, bison, goat, sheep, deer, elk, and moose — have a four-chambered stomach that performs biohydrogenation, acting as a natural "biofilter." This process greatly reduces the amount of polyunsaturated fatty acids (PUFAs) that end up in their meat and fat. PUFAs, particularly those abundant in seed oils (such as soybean, corn, and canola oil), are highly unsaturated fatty acids that are unstable and prone to oxidation. These oils can go rancid on the shelf and oxidize more readily in the body compared to more saturated fats. Linoleic acid, the primary omega-6 PUFA in most seed oils, is one of the most prominent examples. It has more double bonds, which makes it unstable and easily oxidized at high temperatures when cooking — think every fryer at a fast-food restaurant, except Buffalo Wild Wings, which uses beef tallow. (Ironically, beef tallow was used for the original McDonald’s fries from 1949 to 1990.)
 
